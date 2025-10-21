@@ -9,19 +9,6 @@ Most of my work revolves around **Laravel Livewire**, **TailwindCSS (Metronic in
 
 ---
 
-### 🧠 What I Do
-
-- ⚙️ **Backend**
-  - Dynamic modals, tables, and form-based models
-  - Real-time syncing (events, vendors, users, transactions)
-  - Clean component-based logic — I like things *reusable and predictable*.
-
-- 💻 **Frontend**
-  - Elegant UI using **Metronic Tailwind**
-  - Smooth user interactions (search dropdowns, toggle views, charts)
-
----
-
 ### 🧩 Projects I’ve Worked On
 
 #### 🌳 **Durian Farm Management System (Laravel)**
